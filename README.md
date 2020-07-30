@@ -8,3 +8,8 @@
 You will learn machine learning deep learning theory through code 
 (Python, Keras, Tensor Floor, PyTorch, etc.).
 I would like to introduce the theory when explaining the code.
+
+유투버 강의(YouTube lecture)
+https://www.youtube.com/watch?v=JaQR-oYZJGA&list=PLeSj6uLWF7bwm_lG5teNpbmtRJxNn9Vpt
+
+https://www.youtube.com/channel/UCskLCmxbtn1m5qkm-wvg07g/playlists?view_as=subscriber
